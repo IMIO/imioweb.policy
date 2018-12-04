@@ -13,5 +13,7 @@
     <dependency>profile-plone.app.imagecropping:default</dependency>
     <dependency>profile-plone.app.mosaic:default</dependency>
     <dependency>profile-imioweb.theme:default</dependency>
+    <dependency>profile-collective.editablemenu:default</dependency>
+    <dependency>profile-collective.registration:default</dependency>
   </dependencies>
 </metadata>

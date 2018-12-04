@@ -55,6 +55,8 @@ setup(
         'collective.easyform',
         'collective.preventactions',
         'collective.z3cform.select2',
+        'collective.registration',
+        'collective.editablemenu',
     ],
     extras_require={
         'test': [

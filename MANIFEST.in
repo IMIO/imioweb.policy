@@ -1,0 +1,9 @@
+graft src/imioweb
+graft docs
+include *.rst
+global-exclude *.pyc
+include *.py
+include *.GPL
+include *.txt
+exclude .gitlint
+exclude .pre-commit-config.yaml

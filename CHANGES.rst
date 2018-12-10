@@ -5,7 +5,8 @@ Changelog
 1.0a2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Upload to devpi.
+  [bsuttor]
 
 
 1.0a1 (2018-12-10)

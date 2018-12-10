@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='imioweb.policy',
-    version='1.0a2',
+    version='1.0a3.dev0',
     description="Policy for the installation of buildout.imioweb",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers

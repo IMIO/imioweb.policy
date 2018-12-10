@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a2 (unreleased)
+1.0a2 (2018-12-10)
 ------------------
 
 - Upload to devpi.

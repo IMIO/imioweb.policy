@@ -5,7 +5,8 @@ Changelog
 1.0a3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add iaweb.mosaic dependency.
+  [bsuttor]
 
 
 1.0a2 (2018-12-10)

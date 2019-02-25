@@ -57,6 +57,7 @@ setup(
         'collective.z3cform.select2',
         'collective.registration',
         'collective.editablemenu',
+        'iaweb.mosaic',
     ],
     extras_require={
         'test': [

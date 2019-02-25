@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a3 (unreleased)
+1.0b1 (2019-02-25)
 ------------------
 
 - Add iaweb.mosaic dependency.

@@ -9,11 +9,10 @@
     <dependency>profile-collective.preventactions:default</dependency>
     <dependency>profile-collective.taxonomy:default</dependency>
     <dependency>profile-collective.faceted.taxonomywidget:plone5</dependency>
-    <dependency>profile-collective.z3cform.select2:default</dependency>
+    <!--dependency>profile-collective.z3cform.select2:default</dependency-->
     <dependency>profile-plone.app.imagecropping:default</dependency>
     <dependency>profile-plone.app.mosaic:default</dependency>
     <dependency>profile-imioweb.theme:default</dependency>
-    <dependency>profile-collective.editablemenu:default</dependency>
-    <dependency>profile-collective.registration:default</dependency>
+    <!--dependency>profile-collective.registration:default</dependency-->
   </dependencies>
 </metadata>

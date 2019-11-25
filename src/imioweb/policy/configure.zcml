@@ -23,9 +23,8 @@
   <include package="collective.behavior.gallery" />
   <include package="collective.easyform" />
   <include package="collective.preventactions" />
-  <include package="collective.z3cform.select2" />
-  <include package="collective.editablemenu" />
-  <include package="collective.registration" />
+  <!--include package="collective.z3cform.select2" /-->
+  <!--include package="collective.registration" /-->
 
   <include package=".browser" />
 

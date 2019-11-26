@@ -6,7 +6,7 @@
 imioweb.policy
 ==============
 
-Fait la glue entre différentes dépendences et passe parfois des paramètres. Quand on installe le module imioweb.policy dans plone, celui-ci va se charger d'installer d'autres modules à son tour.
+Fait la glue entre différentes dépendences et passe parfois des paramètres. La liste des dépendences se trouve dans setup.py Quand on installe le module imioweb.policy dans plone, celui-ci va se charger d'installer d'autres modules à son tour.
 
 Features
 --------

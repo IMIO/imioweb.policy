@@ -2,10 +2,12 @@ Changelog
 =========
 
 
-1.0b2 (unreleased)
+1.0b2 (2019-11-26)
 ------------------
 
-- Nothing changed yet.
+- Add buildout index
+- Make works with py3
+  [bsuttor]
 
 
 1.0b1 (2019-02-25)

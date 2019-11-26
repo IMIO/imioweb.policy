@@ -6,33 +6,30 @@
 imioweb.policy
 ==============
 
-Tell me what your product does
+Fait la glue entre différentes dépendences et passe parfois des paramètres. Quand on installe le module imioweb.policy dans plone, celui-ci va se charger d'installer d'autres modules à son tour.
 
 Features
 --------
 
-- Can be bullet points
+- à compléter
 
 
 Examples
 --------
 
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
+- à compléter
 
 
 Documentation
 -------------
 
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
+- à commpléter
 
 
 Translations
 ------------
 
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
+- à compléter
 
 
 Installation

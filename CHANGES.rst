@@ -5,7 +5,8 @@ Changelog
 1.0b3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add pas.plugin.imio dependency.
+  [bsuttor]
 
 
 1.0b2 (2019-11-26)

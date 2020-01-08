@@ -58,6 +58,7 @@ setup(
         "collective.preventactions",
         "iaweb.mosaic",
         "pas.plugins.imio",
+        "collective.geolocationbehavior",
     ],
     extras_require={
         "test": [

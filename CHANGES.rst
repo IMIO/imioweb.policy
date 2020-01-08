@@ -5,7 +5,8 @@ Changelog
 1.0b4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add collective.geolocationbehavior dependency.
+  [bsuttor]
 
 
 1.0b3 (2019-12-16)

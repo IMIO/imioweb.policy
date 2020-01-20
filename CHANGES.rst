@@ -5,6 +5,9 @@ Changelog
 1.0b4 (unreleased)
 ------------------
 
+- Add collective.faceted.map dependency.
+  [bsuttor]
+
 - Add collective.geolocationbehavior dependency.
   [bsuttor]
 

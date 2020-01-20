@@ -59,6 +59,7 @@ setup(
         "iaweb.mosaic",
         "pas.plugins.imio",
         "collective.geolocationbehavior",
+        "collective.faceted.map",
     ],
     extras_require={
         "test": [

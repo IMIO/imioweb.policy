@@ -7,3 +7,4 @@ include *.GPL
 include *.txt
 exclude .gitlint
 exclude .pre-commit-config.yaml
+exclude Makefile

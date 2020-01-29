@@ -14,5 +14,6 @@
     <dependency>profile-plone.app.mosaic:default</dependency>
     <dependency>profile-imioweb.theme:default</dependency>
     <!--dependency>profile-collective.registration:default</dependency-->
+    <dependency>profile-collective.sendinblue:default</dependency>
   </dependencies>
 </metadata>

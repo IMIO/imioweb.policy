@@ -5,7 +5,8 @@ Changelog
 1.0b6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add collective.sendinblue dependency
+  [laulaz]
 
 
 1.0b5 (2020-01-29)

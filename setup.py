@@ -59,6 +59,7 @@ setup(
         "pas.plugins.imio",
         "collective.faceted.map",
         "imioweb.core",
+        "collective.sendinblue>=2.0",
     ],
     extras_require={
         "test": [

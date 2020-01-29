@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0b6 (unreleased)
+1.0b6 (2020-01-29)
 ------------------
 
 - Add collective.sendinblue dependency

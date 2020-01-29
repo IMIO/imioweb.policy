@@ -5,7 +5,8 @@ Changelog
 1.0b5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add core and remove taxonomy dependency.
+  [bsuttor]
 
 
 1.0b4 (2020-01-27)

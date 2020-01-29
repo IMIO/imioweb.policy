@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0b5 (unreleased)
+1.0b5 (2020-01-29)
 ------------------
 
 - Add core and remove taxonomy dependency.

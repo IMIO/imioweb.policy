@@ -5,7 +5,8 @@ Changelog
 1.0b7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add collective.prometheus dependency.
+  [bsuttor]
 
 
 1.0b6 (2020-01-29)

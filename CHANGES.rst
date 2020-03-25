@@ -2,7 +2,14 @@ Changelog
 =========
 
 
-1.0b7 (unreleased)
+1.0b8 (unreleased)
+------------------
+
+- Bad release.
+  [bsuttor]
+
+
+1.0b7 (2020-03-25)
 ------------------
 
 - Add collective.prometheus dependency.

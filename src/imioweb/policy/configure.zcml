@@ -24,6 +24,7 @@
   <include package="collective.easyform" />
   <include package="collective.preventactions" />
   <include package="collective.sendinblue" />
+  <include package="imio.prometheus" />
   <!--include package="collective.z3cform.select2" /-->
   <!--include package="collective.registration" /-->
 

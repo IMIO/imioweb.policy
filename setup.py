@@ -60,8 +60,8 @@ setup(
         "collective.faceted.map",
         "imioweb.core",
         "collective.sendinblue>=2.0",
-        "collective.prometheus",
         "collective.folderishtypes[dexterity]",
+        "imio.prometheus",
     ],
     extras_require={
         "test": [

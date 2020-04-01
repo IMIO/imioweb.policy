@@ -5,6 +5,9 @@ Changelog
 1.0b9 (unreleased)
 ------------------
 
+- Add imio.prometheus dependency.
+  [bsuttor]
+
 - Add collective.folderishtypes [dexterity] dependency.
   [bsuttor]
 

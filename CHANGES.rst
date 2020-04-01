@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0b9 (unreleased)
+1.0b9 (2020-04-01)
 ------------------
 
 - Add imio.prometheus dependency.

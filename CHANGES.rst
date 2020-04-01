@@ -5,7 +5,8 @@ Changelog
 1.0b9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add collective.folderishtypes [dexterity] dependency.
+  [bsuttor]
 
 
 1.0b8 (2020-03-25)

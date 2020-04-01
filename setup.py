@@ -61,6 +61,7 @@ setup(
         "imioweb.core",
         "collective.sendinblue>=2.0",
         "collective.prometheus",
+        "collective.folderishtypes[dexterity]",
     ],
     extras_require={
         "test": [
